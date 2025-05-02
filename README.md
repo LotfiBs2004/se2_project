@@ -3,5 +3,4 @@
 les participants : 
 - mohamed loutfi belabbas
 - mimouni nassim
-- deepSeek
-- chatgpt
+ 
